@@ -1,4 +1,5 @@
 # Move the 3 following functions to utils.py
+# dhruv ko nai bataya
 def validate(hand):
     if hand < 0 or hand > 2:
         return False
